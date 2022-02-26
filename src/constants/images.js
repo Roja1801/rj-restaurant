@@ -21,6 +21,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import rjlogo from '../assets/rjlogo.png';
+import rjjlogo from '../assets/rjjlogo.png';
+import laurelss from '../assets/laurelss.png';
 
 export default {
   bg,
@@ -45,5 +47,8 @@ export default {
   sign,
   quote,
   gericht,
-  rjlogo
+  rjlogo,
+  laurelss,
+  rjjlogo
+
 };
