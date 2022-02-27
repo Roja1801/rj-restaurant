@@ -11,6 +11,10 @@
     line-height: 117px;
     font-size: 90px;
 }
+.custom__button :hover {
+    border-radius: 20px;
+    background-color: coral; 
+  }
 
 .app__header-img img {
     width: 80%;

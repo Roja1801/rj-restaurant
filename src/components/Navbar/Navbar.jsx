@@ -10,7 +10,7 @@ const Navbar = () => {
   return(
   <div className='app__navbar'>
     <div className='app__navbar-logo'>
-      <img src ={images.rjlogo} alt='rjlogo'/>
+      <img src ={images.rjjlogo} alt='rjjlogo'/>
 
     </div>
     <ul className='app__navbar-links'>
