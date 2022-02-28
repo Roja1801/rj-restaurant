@@ -28,6 +28,11 @@
 
     text-align: right;
 }
+button:hover {
+    border-radius: 15px;
+    background-color: gold; 
+}
+ 
 
 .app__aboutus-content_knife {
     margin: 2rem 4rem;
